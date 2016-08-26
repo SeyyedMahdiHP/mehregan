@@ -2,7 +2,10 @@
 # Seyyed Mahdi HassanPour
 # SeyyedMahdiHP@gmail.com
 """
-this a sandbox python project
+docstring  for describing a function or class or module functionality and how to use it.
+    it has to be at first line of the func
+multiple statement on one line using ;
+multiple line statement with \
 """
 
 
